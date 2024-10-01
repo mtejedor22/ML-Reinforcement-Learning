@@ -3,8 +3,6 @@
 ## Introduction
 This repository contains code for implementing various reinforcement learning algorithms and solving Markov Decision Process (MDP) problems. Reinforcement learning is a type of machine learning where an agent learns to make decisions by interacting with an environment to achieve a certain goal. Markov Decision Process is a mathematical framework used to model decision-making in situations where outcomes are partly random and partly under the control of a decision-maker.
 
-For accessing the files through Georgia Tech affiliation, please use the following link: [https://gatech.box.com/s/t7t7fmp93vgpi0bk69jkz9aco6ptv2kr](https://gatech.box.com/s/t7t7fmp93vgpi0bk69jkz9aco6ptv2kr)
-
 ## Dependencies
 Before running the code, ensure you have the following libraries installed:
 
